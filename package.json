@@ -31,11 +31,11 @@
   },
   "postcss": {
     "plugins": {
-    "autoprefixer": {},
-    "postcss-px-to-viewport": {
+      "autoprefixer": {},
+      "postcss-px-to-viewport": {
         "viewportWidth": 375,
         "minPixelValue": 1
-        }
+      }
     }
   }
 }
